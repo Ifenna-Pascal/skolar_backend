@@ -1,0 +1,20 @@
+{
+  "name": "skolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon server"
+  },
+  "author": "Monanu Ifenna",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "json-web-token": "^3.2.0",
+    "mongoose": "^6.0.12"
+  }
+}
